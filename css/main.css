@@ -293,18 +293,14 @@ textarea {
 }
 
 html, body {
-    height: 100%;
-    width: 100%;
-}
-
-#container {
-    background-color: #daab28;
+    background-color: #fff;
     position: relative;
     height: 100%;
     width: 100%;
 }
 
 #logo {
+    text-align: center;
     position: absolute;
     margin: auto;
     height: 50%;
